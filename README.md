@@ -4,7 +4,7 @@ The G20 is an international forum for the governments and central bank governors
 
 Website:  https://mishkink.github.io/G20-Data-Vizualization/
 
-https://zenodo.org/badge/latestdoi/305786850
+https://zenodo.org/record/4110649#.X48muHhKhQI
 
-[![DOI](https://zenodo.org/badge/305786850.svg)](https://zenodo.org/badge/latestdoi/305786850)
+Data: https://docs.google.com/spreadsheets/d/1_KE6QoLuCAdVAcXrmKK389DP1REJCQpjcAiUQAqDtK4/edit?usp=sharing
 
